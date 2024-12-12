@@ -1,7 +1,8 @@
 ## Ni Hao 👋
-- 🔭 I’m currently working on machine learning and system research.
+- 🔭 I’m working on machine learning and system research.
 - 📫 How to reach me: zhusq20@gmail.com
 - ⚡ Fun fact: I’m not exactly a morning person and waking up early is always a challenge.
+- 🌱 I’m learning kickboxing.
 <!--
 **zhusq20/zhusq20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
