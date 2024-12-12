@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on LLM serving and some algorithms.
+- 🔭 I’m currently working on machine learning and system research.
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 📫 How to reach me: zhusq20@gmail.com
+- ⚡ Fun fact: I’m not exactly a morning person and waking up early is always a challenge!
