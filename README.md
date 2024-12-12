@@ -1,6 +1,5 @@
 ## Ni Hao 👋
 - 🔭 I’m working on machine learning and system research.
-- 📫 How to reach me: zhusq20@gmail.com
 - ⚡ Fun fact: I’m not exactly a morning person and waking up early is always a challenge.
 - 🌱 I’m learning kickboxing.
 <!--
