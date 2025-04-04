@@ -1,7 +1,5 @@
-## Ni Hao 👋
+  ## Hi 👋
 - 🔭 I’m working on machine learning system.
-- ⚡ Fun fact: I’m not exactly a morning person.
-- 🌱 I’m learning triton.
 <!--
 **zhusq20/zhusq20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
