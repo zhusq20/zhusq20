@@ -1,5 +1,5 @@
   ## Hi 👋
-- 🔭 I’m working on machine learning system.
+- 🔭 I’m working on LLM agents.
 <!--
 **zhusq20/zhusq20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
