@@ -1,15 +1,5 @@
-  ## Hi 👋
-- 🔭 I’m working on LLM.
-<!--
-**zhusq20/zhusq20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋
 
-Here are some ideas to get you started:
--->
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on agentic LLM and reinforcement learning.
+
+Interested in building simple abstractions for complex learning systems.
